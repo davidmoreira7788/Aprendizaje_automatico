@@ -1,0 +1,107 @@
+[
+  {
+    "id_cliente": 1,
+    "nombre": "Cliente_1",
+    "email": "cliente1@mail.com",
+    "ciudad": "Córdoba",
+    "edad": 31
+  },
+  {
+    "id_cliente": 2,
+    "nombre": "Cliente_2",
+    "email": "cliente2@mail.com",
+    "ciudad": "Córdoba",
+    "edad": 34
+  },
+  {
+    "id_cliente": 3,
+    "nombre": "Cliente_3",
+    "email": "cliente3@mail.com",
+    "ciudad": "Río Grande",
+    "edad": 40
+  },
+  {
+    "id_cliente": 4,
+    "nombre": "Cliente_4",
+    "email": "cliente4@mail.com",
+    "ciudad": "Ushuaia",
+    "edad": 33
+  },
+  {
+    "id_cliente": 5,
+    "nombre": "Cliente_5",
+    "email": "cliente5@mail.com",
+    "ciudad": "Tolhuin",
+    "edad": 36
+  },
+  {
+    "id_cliente": 6,
+    "nombre": "Cliente_6",
+    "email": "cliente6@mail.com",
+    "ciudad": "Río Grande",
+    "edad": 46
+  },
+  {
+    "id_cliente": 7,
+    "nombre": "Cliente_7",
+    "email": "cliente7@mail.com",
+    "ciudad": "Córdoba",
+    "edad": 63
+  },
+  {
+    "id_cliente": 8,
+    "nombre": "Cliente_8",
+    "email": "cliente8@mail.com",
+    "ciudad": "Tolhuin",
+    "edad": 57
+  },
+  {
+    "id_cliente": 9,
+    "nombre": "Cliente_9",
+    "email": "cliente9@mail.com",
+    "ciudad": "Córdoba",
+    "edad": 18
+  },
+  {
+    "id_cliente": 10,
+    "nombre": "Cliente_10",
+    "email": "cliente10@mail.com",
+    "ciudad": "Córdoba",
+    "edad": 37
+  },
+  {
+    "id_cliente": 11,
+    "nombre": "Cliente_11",
+    "email": "cliente11@mail.com",
+    "ciudad": "Ushuaia",
+    "edad": 26
+  },
+  {
+    "id_cliente": 12,
+    "nombre": "Cliente_12",
+    "email": "cliente12@mail.com",
+    "ciudad": "Tolhuin",
+    "edad": 25
+  },
+  {
+    "id_cliente": 13,
+    "nombre": "Cliente_13",
+    "email": "cliente13@mail.com",
+    "ciudad": "Ushuaia",
+    "edad": 65
+  },
+  {
+    "id_cliente": 14,
+    "nombre": "Cliente_14",
+    "email": "cliente14@mail.com",
+    "ciudad": "Córdoba",
+    "edad": 27
+  },
+  {
+    "id_cliente": 15,
+    "nombre": "Cliente_15",
+    "email": "cliente15@mail.com",
+    "ciudad": "Tolhuin",
+    "edad": 36
+  }
+]
